@@ -1,0 +1,4 @@
+name: XPVending
+description: A Plugin for spending XP to obtain items
+main: io.github.OscarNorman.XPVending.XPVending
+version: 0.0.1

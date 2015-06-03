@@ -1,0 +1,22 @@
+#XPVending Plugin Config File
+vendingmachines:
+
+types:
+  1:
+    items:
+      diamond:
+        price: 20
+        displayname: $bDiamond
+        amount: 1
+      emerald:
+        price: 15
+        displayname: $aEmerald
+        amount: 2
+      gold_ingot:
+        price: 10
+        displayname: $6Gold Ingot
+        amount: 1
+      iron_ingot:
+        price: 15
+        displayname: $7Iron Ingot
+        amount: 1
